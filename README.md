@@ -1,16 +1,9 @@
-# poke_app
+# PokeTab - Pokémon Information App
 
-A new Flutter project.
+Welcome to PokeTab, a Flutter-based Pokémon information app that allows you to explore and discover details about different Pokémon using a Pokémon API. This app is designed to be responsive, providing a seamless experience on various devices.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Pokémon Information**: Explore detailed information about various Pokémon, including their names, types, abilities, and more.
+- **Responsive Design**: Enjoy a consistent and user-friendly experience across different devices, from smartphones to tablets.
+- **API Integration**: Fetch Pokémon data in real-time from a Pokémon API to ensure accuracy and up-to-date information.
